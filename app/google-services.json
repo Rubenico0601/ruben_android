@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "938880910478",
+    "firebase_url": "https://clevertap-android-and-flutter-default-rtdb.firebaseio.com",
+    "project_id": "clevertap-android-and-flutter",
+    "storage_bucket": "clevertap-android-and-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938880910478:android:8f5dc129d586b28f4bb5df",
+        "android_client_info": {
+          "package_name": "com.example.ruben"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSEXiJD4OBNs2CX7xtkLmfppPfcJQbbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938880910478:android:3fad19bed6dea7884bb5df",
+        "android_client_info": {
+          "package_name": "com.example.tam_ro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSEXiJD4OBNs2CX7xtkLmfppPfcJQbbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
